@@ -1,7 +1,12 @@
 # Student Enrollment System - Visual Basic
 
 ## Introduction
-This Student Enrollment System is a simple desktop application developed using Visual Basic (VB) for managing student enrollment in a school or educational institution. The system allows administrators to add, view, update, and delete student records efficiently.
+This Student Enrollment System is a simple desktop application developed using Visual Basic (VB) for managing student enrollment in a school or educational institution. The system allows administrators to add, view, update, and delete student records efficiently. Not only students we can also add subjects.
+
+we can login using 
+username: admin
+password: admin
+
 
 ## Features
 - Add new student records with details such as name, age, gender, and contact information.
