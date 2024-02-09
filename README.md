@@ -9,6 +9,7 @@ password: admin
 
 
 ## Features
+- Basic CRUD operations
 - Add new student records with details such as name, age, gender, and contact information.
 - View a list of all enrolled students with their respective details.
 - Update existing student records if there are any changes in the information.
