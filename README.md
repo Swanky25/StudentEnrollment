@@ -15,4 +15,14 @@ This Student Enrollment System is a simple desktop application developed using V
 - Basic knowledge of Visual Basic (VB) programming language.
 
 ## Screenshots
+## Login page
 ![Screenshot 2024-02-09 101958](https://github.com/Swanky25/StudentEnrollment/assets/107227460/11571253-5562-406a-b306-d373fcdcc8df)
+## List of students
+![Screenshot 2024-02-09 103632](https://github.com/Swanky25/StudentEnrollment/assets/107227460/490050c0-b14d-44c4-ac28-ac5ae7ae829c)
+## form for updating, deleting student
+![Screenshot 2024-02-09 103720](https://github.com/Swanky25/StudentEnrollment/assets/107227460/7832faba-671f-4270-ad43-ff42263fd979)
+## Database Screenshot
+![Screenshot 2024-02-09 103751](https://github.com/Swanky25/StudentEnrollment/assets/107227460/a4d79efa-cbd2-472f-89e2-30fa59ee9635)
+
+
+
